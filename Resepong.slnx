@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/Resepong.Api/Resepong.Api.csproj" />
+    <Project Path="backend/Resepong.Aplication/Resepong.Aplication.csproj" />
+    <Project Path="backend/Resepong.Domain/Resepong.Domain.csproj" />
+    <Project Path="backend/Resepong.Infrastructure/Resepong.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/frontend/">
+    <Project Path="frontend/Resepong.App/Resepong.App.csproj" />
+  </Folder>
+</Solution>
